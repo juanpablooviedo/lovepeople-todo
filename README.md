@@ -1,6 +1,6 @@
-# app_todo
+## lovepeople-todo
 
-A new Flutter project.
+lovepeople-todo é um app de estudo para o curso de Flutter da Love People.
 
 ## Getting Started
 
