@@ -1,6 +1,7 @@
 ## lovepeople-todo
 
-lovepeople-todo é um app de estudo para o curso de Flutter da Love People.
+É um app de lista de tarefas.
+É resultado de um projeto de estudo para o curso de Flutter da Love People.
 
 ## Getting Started
 
