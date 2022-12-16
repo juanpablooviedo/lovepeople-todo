@@ -1,7 +1,7 @@
 ## lovepeople-todo
 
 É um aplicativo de lista de tarefas simples.
-Este app é resultado de um projeto de estudo para o curso Flutter da Love People.
+Este app é resultado de um projeto de estudo para aprender sobre Flutter.
 
 ## Getting Started
 
